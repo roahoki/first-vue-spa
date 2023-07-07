@@ -57,7 +57,7 @@ de los elementos
 
 El trabajo se realizó en base al framework de Vue para javascript. Se trabajó principalmente en los documentos views/App.vue y styles/App.css 
 
-Para poder codear esto me ayudé directamente de ChatGPT para la parte de las implementaciones de <template> y <script> en App.vue
+Para poder codear esto me ayudé directamente de ChatGPT para la parte de las implementaciones de template y <script> en App.vue
 
 Tambien saque css de https://codepen.io/team/codepen/pen/axwMPo para crear una transicion inicial y de https://codepen.io/ en general obtuve codigo css de la pagina general https://codepen.io
 
